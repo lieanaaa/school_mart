@@ -1,0 +1,30 @@
+
+body{
+    background-color: #feebed;
+}
+
+/*Login*/
+.login{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-color:  #c52156;
+    color:black;
+}
+
+img{
+    width: 220px;
+    margin-bottom: -10px;
+    margin-top: -20px;
+}
+
+
+
+
+
